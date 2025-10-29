@@ -25,7 +25,6 @@ URL: http://localhost:3000/api/bookings
 
 Method: POST
 URL: http://localhost:3000/api/bookings
-Body (JSON):
 
 {
   "newBooking": {
