@@ -39,7 +39,6 @@ URL: http://localhost:3000/api/bookings
 
 Method: PUT
 URL: http://localhost:3000/api/bookings
-Body (JSON):
 
 {
   "updateBooking": {
@@ -55,7 +54,6 @@ Body (JSON):
 
 Method: DELETE
 URL: http://localhost:3000/api/bookings
-Body (JSON):
 
 {
   "deleteBooking": {
